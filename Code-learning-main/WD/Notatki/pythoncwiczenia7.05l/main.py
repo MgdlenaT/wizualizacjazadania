@@ -148,6 +148,8 @@ from PIL import Image
 #
 # plt.axis([9,6,0,20])
 
+#tworzenie wykresu
+
 # x=np.arange(0,5.2,0.2)
 # # plt.plot(x,x,'r-',x,x**2,'b',x,x**2,'gs')
 # # plt.legend(labels=['liniowa','kwadratowa','szescienna'],loc='central left')
